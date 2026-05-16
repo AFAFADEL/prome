@@ -325,3 +325,8 @@ Fix: Use `http://prometheus:9090` (container name) — not `localhost:9090`
 
 sudo apt update
 sudo apt install -y stress-ng
+------------------------------------------------------
+<img width="2515" height="1439" alt="Screenshot 2026-05-16 135449" src="https://github.com/user-attachments/assets/d8c85b5f-1633-41bd-9848-f3157abee017" />
+
+<img width="2529" height="1265" alt="Screenshot 2026-05-16 134750" src="https://github.com/user-attachments/assets/c87fd516-f83c-40e6-88cb-488093f20249" />
+
