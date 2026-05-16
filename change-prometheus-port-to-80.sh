@@ -15,3 +15,12 @@ sudo systemctl enable node_exporter
 # 5. Verify status
 sudo ss -tulpn | grep :80
 sudo systemctl status node_exporter
+---------------------
+ensure dns is allawed
+security group ---edit port 80 in route
+change in promethus.yaml
+docker pull image first if image loud slowly then
+docker-compose up -d
+
+
+
